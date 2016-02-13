@@ -1,4 +1,5 @@
 # Summary
 
 * [Johdanto](johdanto/index.md)
-    * [ensimmäinen alaluku](johdanto/1-alaluku.md) 
+    * [ensimmäinen alaluku](johdanto/1-alaluku.md)
+    * [Toinen alaluku](johdanto/2-alaluku.md)
